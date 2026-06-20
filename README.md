@@ -17,8 +17,8 @@ Me chamo Pedro Luiz, tenho 20 anos. Atualmente estudante de Ciência da Computa�
 </a>
 
 ---
-## 🤖Linguagens e tecnologias
 
+### 🤖 Linguagens e Tecnologias
 
 
 <img
@@ -92,9 +92,11 @@ Me chamo Pedro Luiz, tenho 20 anos. Atualmente estudante de Ciência da Computa�
 
 
 ---
-## 📊 GitHub Análise
 
-<div align="center">
+### 📊 Estatísticas
+
+
+<div align="left">
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=PedrolzAlves&theme=tokyonight&hide_border=true"/>
 
