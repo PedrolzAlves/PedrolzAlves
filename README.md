@@ -1,6 +1,6 @@
 # Pedro Luiz Alves
 
-**`Science Computing`**
+**`Computer Science`**
 
 Me chamo Pedro Luiz, tenho 20 anos. Atualmente estudante de Ciência da Computação n PUC Minas, sou amante de tecnologia desde a infância, com futuro foco em desenvolvimento full stack e Banco de Dados!
 
